@@ -1,0 +1,2 @@
+# SafuWallet
+Wallet Safu Coin
